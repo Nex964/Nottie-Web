@@ -1,0 +1,19 @@
+<svg id="writing" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="linear-gradient" y1="-24.543" x2="1" y2="-24.543" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00f1ff"/>
+      <stop offset="0.231" stop-color="#00d8ff"/>
+      <stop offset="0.514" stop-color="#00c0ff"/>
+      <stop offset="0.777" stop-color="#00b2ff"/>
+      <stop offset="1" stop-color="#00adff"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1" data-name="Path 1" d="M512,256c0,141.387-114.613,256-256,256S0,397.387,0,256,114.613,0,256,0,512,114.613,512,256Zm0,0" fill="url(#linear-gradient)"/>
+  <g id="Group_1" data-name="Group 1" transform="translate(116.412 71.048)">
+    <path id="Path_2" data-name="Path 2" d="M223.159,410.91H174.942A28.258,28.258,0,0,1,146.7,382.7V129.2a28.258,28.258,0,0,1,28.238-28.211H352.189A28.256,28.256,0,0,1,380.427,129.2v88.578a15.01,15.01,0,0,0,30.021,0V129.2A58.3,58.3,0,0,0,352.189,71H174.946a58.3,58.3,0,0,0-58.263,58.2V382.7a58.3,58.3,0,0,0,58.263,58.2h48.217a15,15,0,1,0,0-29.992Zm0,0" transform="translate(-116.684 -70.999)" fill="#fff"/>
+    <path id="Path_3" data-name="Path 3" d="M337.733,157.441H189.24a15.01,15.01,0,1,0,0,30.021H337.733a15.01,15.01,0,1,0,0-30.021Zm0,0" transform="translate(-116.644 -71.029)" fill="#fff"/>
+    <path id="Path_4" data-name="Path 4" d="M352.744,230.076a15.012,15.012,0,0,0-15.01-15.01H189.24a15.01,15.01,0,1,0,0,30.021H337.733A15.009,15.009,0,0,0,352.744,230.076Zm0,0" transform="translate(-116.644 -71.05)" fill="#fff"/>
+    <path id="Path_5" data-name="Path 5" d="M189.24,272.695a15.01,15.01,0,1,0,0,30.021h90.187a15.01,15.01,0,1,0,0-30.021Zm0,0" transform="translate(-116.644 -71.069)" fill="#fff"/>
+    <path id="Path_6" data-name="Path 6" d="M435.706,279.775a43.887,43.887,0,0,0-61.992-.012l-79.152,78.973A15.042,15.042,0,0,0,290.8,365l-17.234,56.746a15,15,0,0,0,18.369,18.826l58.188-16.117a15.024,15.024,0,0,0,6.594-3.842l78.988-78.835a43.9,43.9,0,0,0,0-62ZM414.48,301a13.842,13.842,0,0,1,.008,19.541l-2.373,2.369-19.549-19.549L394.928,301A13.848,13.848,0,0,1,414.48,301Zm-76.173,95.577-28.086,7.779,8.213-27.027,52.88-52.767,19.553,19.552Zm0,0" transform="translate(-116.576 -71.217)" fill="#fff"/>
+  </g>
+</svg>

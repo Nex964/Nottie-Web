@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.splash{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transition-duration: 2s;
+}
+
+.splash h5{
+    color: #555;
+    font-size: 1.2em;
+    margin-top: 5px;
+}
